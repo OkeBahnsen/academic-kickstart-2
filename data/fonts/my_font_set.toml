@@ -9,6 +9,3 @@ heading_font = "Montserrat"
 body_font = "Raleway"
 nav_font = "Raleway"
 mono_font = "Roboto Mono"
-
-# Font size
-font_size_small = "16"
