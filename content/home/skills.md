@@ -13,12 +13,6 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = ""
   
 [[feature]]
   icon = "chart-line"
@@ -30,6 +24,12 @@ subtitle = ""
   icon = "globe-americas"
   icon_pack = "fas"
   name = "Spatial analysis"
+  description = ""
+
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
   description = ""
 
 +++
