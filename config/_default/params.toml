@@ -92,7 +92,7 @@ phone = "+31 (0) 20 598 1260"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "De Boelelaan 1077", city = "Amsterdam", postcode = "3817 SG", country = "Netherlands", country_code = "NL"}
+address = {street = "De Boelelaan 1077", postcode = "1081 HV Amsterdam", country = "The Netherlands", country_code = "NL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
