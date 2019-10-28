@@ -4,7 +4,7 @@ date: 2019-10-28T22:27:52+01:00
 
 summary: "Why do offenders commit crimes where and when they do?"
 tags:
-- Spatio-temporal
+- spatio-temporal
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
