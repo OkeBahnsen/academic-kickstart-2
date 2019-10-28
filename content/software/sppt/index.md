@@ -7,7 +7,7 @@ tags:
 date: 2018-03-22
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/wsteenbeek/sppt"
+external_link: ""
 
 # image:
 #  caption: Photo by rawpixel on Unsplash
