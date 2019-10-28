@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher
+role: "Criminology | Geography | Sociology"
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.nscr.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include spatio-temporal patterns of crime, machine learning, and R.
+bio: My research interests include spatio-temporal patterns of crime, offender decision-making, neighborhoods, machine learning, and R.
 
 interests:
 - Criminology
