@@ -4,7 +4,7 @@ summary: "Implements several area-based tests that measure the degree of similar
 tags:
 - sppt
 - point pattern
-date: 2019-10-28T20:39:37+01:00
+date: 2018-03-22
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/wsteenbeek/sppt"

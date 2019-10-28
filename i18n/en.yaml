@@ -194,6 +194,9 @@
 - id: projects
   translation: Projects
 
+- id: Software
+  translation: Software
+
 # Search
 
 - id: search
