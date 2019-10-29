@@ -24,11 +24,6 @@
   weight = 35
 
 [[main]]
-  name = "Soft2"
-  url = "#softwares2"
-  weight = 36
-
-[[main]]
   name = "Talks"
   url = "#talks"
   weight = 40
