@@ -1,8 +1,10 @@
 ---
 title: "Cybercriminal decision-making"
-date: 2019-10-28T22:27:52+01:00
 
 summary: "Real-world experiments with cybercrime offenders"
+
+date: 2019-10-28T22:27:52+01:00
+
 tags:
 - cyber
 

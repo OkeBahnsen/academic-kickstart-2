@@ -1,23 +1,28 @@
 ---
 title: "lorenzgini: generalized Gini for sparse data situations"
+
 summary: "Calculates the standard Gini coefficient as well as the generalized coefficient, and plots Lorenz curves. The Lorenz plots show the line of maximal equality given the data."
+
+date: 2018-03-12
+
 tags:
 - crime concentration
 - crime pattern
-date: 2018-03-12
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-# image:
-#  caption: Photo by rawpixel on Unsplash
-#  focal_point: Smart
+image:
+ caption: Photo by Austin Distel on Unsplash
+ focal_point: Bottom
+
+markup: mmark
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/WouterSteenbeek
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/WouterSteenbeek
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -45,4 +50,4 @@ The package goes a bit beyond the method in the published paper:
 
 - The Lorenz plot can be automatically rescaled. This could be more useful when comparing two crime types than the original plots (Figure 3 and Figure 5, right-hand side) in the paper.
 
-To install the package, follow the instructions on its [GitHub repository](https://github.com/wsteenbeek/lorenzgini).
+A> To install the package, follow the instructions on its [GitHub repository](https://github.com/wsteenbeek/lorenzgini).

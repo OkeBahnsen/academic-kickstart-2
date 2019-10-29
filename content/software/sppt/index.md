@@ -9,15 +9,17 @@ date: 2018-03-22
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-# image:
-#  caption: Photo by rawpixel on Unsplash
-#  focal_point: Smart
+image:
+ caption: Photo by Kelsey Knight on Unsplash
+ focal_point: Left
+
+markup: mmark
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/WouterSteenbeek
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/WouterSteenbeek
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -37,4 +39,4 @@ The tests in this package measure the degree of similarity at the local level be
 
 Apply these tests if you are fundamentally interested in the similarity of two (or more) spatial point patterns for a specified areal unit. Do incidences of some form of cancer have a similar spatial pattern to the locations of known risk factors? Does crime have a similar spatial pattern as drinking establishments? Is the spatial pattern of exports similar to the spatial pattern of imports? Additionally, this spatial point pattern test can be used in longitudinal contexts as well: Is the spatial pattern of crime this year similar to the spatial pattern of crime last year, or ten years ago?
 
-To install the package, follow the instructions on its [GitHub repository](https://github.com/wsteenbeek/sppt).
+A> To install the package, follow the instructions on its [GitHub repository](https://github.com/wsteenbeek/sppt).
