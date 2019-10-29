@@ -16,8 +16,6 @@ image:
  caption: Photo by Austin Distel on Unsplash
  focal_point: Bottom
 
-markup: mmark
-
 links:
 # - icon: twitter
 #   icon_pack: fab
@@ -50,4 +48,7 @@ The package goes a bit beyond the method in the published paper:
 
 - The Lorenz plot can be automatically rescaled. This could be more useful when comparing two crime types than the original plots (Figure 3 and Figure 5, right-hand side) in the paper.
 
-A> To install the package, follow the instructions on its [GitHub repository](https://github.com/wsteenbeek/lorenzgini).
+{{% alert note %}}
+To install the package, follow the instructions on its [GitHub repository](https://github.com/wsteenbeek/lorenzgini).
+{{% /alert %}}
+

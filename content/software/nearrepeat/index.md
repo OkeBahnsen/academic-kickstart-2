@@ -10,11 +10,13 @@ date: 2019-10-12
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
+header:
+ image: "header-software/header_nearrepeat.jpg"
  caption: Photo by David Siglin on Unsplash
  focal_point: Smart
 
-markup: mmmark
+markup:
+ mmmark
 
 links:
 # - icon: twitter
