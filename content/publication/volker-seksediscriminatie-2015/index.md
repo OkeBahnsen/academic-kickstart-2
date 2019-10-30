@@ -1,8 +1,8 @@
 ---
 title: "Seksediscriminatie binnen NWO-MaGW is geenszins evident: Een reactie op de reactie van Van der Lee en Ellemers"
 date: 2015-12-01
-publishDate: 2019-10-27T21:44:18.007624Z
-authors: ["B. Volker", "W. Steenbeek", "Inequalities, Institutions", "AISSR, FMG) Life courses (IIL"]
+publishDate: 2019-10-30T08:23:13.577974Z
+authors: ["Beate Völker", "Wouter Steenbeek"]
 publication_types: ["0"]
 abstract: ""
 featured: false
