@@ -11,7 +11,7 @@ date: 2019-10-12
 external_link: ""
 
 image:
- caption: Photo by David Siglin on Unsplash
+ caption: Photo by Jayden Wong on Unsplash
  focal_point: Smart
  preview_only: true
 
