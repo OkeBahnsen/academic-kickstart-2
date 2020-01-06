@@ -79,7 +79,7 @@ user_groups:
 - Visitors
 ---
 
-I am a researcher at the Netherlands Institute for the Study of Crime and Law Enforcement ([NSCR](https://www.nscr.nl)), a research institute of the Netherlands Organisation for Scientific Research ([NWO](https://www.nwo.nl)).
+I am a senior researcher at the Netherlands Institute for the Study of Crime and Law Enforcement ([NSCR](https://www.nscr.nl)), a research institute of the Netherlands Organisation for Scientific Research ([NWO](https://www.nwo.nl)).
 
 Most of my work is on the 'geography of crime'. I describe spatial and temporal variations in crime, and explain these variations as a function of the characteristics of places and of how potential offenders, potential victims, informal and formal guardians use their spatial environment over daily and weekly time cycles.
 
