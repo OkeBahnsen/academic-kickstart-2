@@ -1,5 +1,5 @@
 +++
-date = 2018-01-11T00:00:00  # Schedule page publish date.
+publishDate = 2018-01-11T00:00:00  # Schedule page publish date.
 
 title = "Testing for similarity in area-based spatial patterns: how the pattern of pedestrian stops by the NYPD differs from crime (2006-2016)"
 date = 2018-02-09T13:00:00

@@ -1,5 +1,5 @@
 +++
-date = 2017-01-01T00:00:00  # Schedule page publish date.
+publishDate = 2017-01-01T00:00:00  # Schedule page publish date.
 
 title = "Wat maakt het misdaadpatroon: buurt of straat?"
 date = 2017-01-19T14:00:00
