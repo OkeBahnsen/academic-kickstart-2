@@ -2,7 +2,7 @@
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
 title = "Wat maakt het misdaadpatroon: buurt of straat?"
-time_start = 2017-01-19T14:00:00
+date = 2017-01-19T14:00:00
 time_end = 2017-01-19T15:00:00
 abstract = ""
 abstract_short = ""
