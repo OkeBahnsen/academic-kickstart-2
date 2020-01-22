@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "Criminology | Geography | Sociology"
+role: "Senior Researcher"
 
 # Organizations/Affiliations
 organizations:
